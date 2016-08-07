@@ -1,6 +1,6 @@
-# Pre-work - *Calc*
+# Pre-work - *Tip Me*
 
-**Calc** is a tip calculator application for iOS.
+**Tip Me** is a tip calculator application for iOS.
 
 Submitted by: Dustin Goodman
 
